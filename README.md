@@ -29,6 +29,11 @@ node movie-titles-axios.js
 node movie-titles.js
 
 ```
+
+### DEMO
+
+![Alt Text](https://cl.ly/137f2d5f6237/Screen%252520Recording%2525202019-10-10%252520at%25252001.02%252520AM.gif)
+
 ## Author
 
 **Edax Uclés** - *Initial work* - [f1lander](https://github.com/f1lander)
